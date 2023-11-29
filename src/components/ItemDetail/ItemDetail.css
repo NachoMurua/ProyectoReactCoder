@@ -1,0 +1,30 @@
+
+.divContainerInfo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 100px;
+}
+
+.divInfo{
+    margin-left: 60px;
+    padding: 70px;
+    background-color: white;
+    height: 500px;
+    border-radius: 25px 0px;
+}
+
+.nombreH2{
+    font-size: 30px;
+}
+
+.precioh3{
+    margin-block: 30px;
+    font-size: 25px;
+}
+
+.descripcionP{
+    font-weight: 600;
+    margin-block: 40px;
+}
+
