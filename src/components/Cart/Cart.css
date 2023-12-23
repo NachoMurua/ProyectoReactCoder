@@ -1,0 +1,55 @@
+.divTotales{
+    text-align: center;
+    display: block;
+}
+
+.totalProd {
+    color: #ffff;
+    padding-block: 35px;
+}
+
+.botonLimpiar {
+    color: black;
+    font-weight: 600;
+    font-size: 18px;
+    padding: 12px;
+    margin: 25px;
+    cursor: pointer;
+    border: none;
+    border-radius: 20px;
+    transition: .5s ease;
+}
+
+.botonLimpiar:hover{
+    background-color: black;
+    color: #ffff;
+    border: 2px solid #ffff;
+    border-radius: 15px 0;
+}
+
+.botonCheckout {
+    color: #ffff;
+}
+
+.botonCheckout:hover {
+    color: grey;
+}
+
+.sinProductos {
+    color: #ffff;
+    text-align: center;
+    margin-top: 10%;
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+
+.navegar{
+    color: #ffff;
+    font-size: 30px;
+    margin: 870px;
+}
+
+.navegar:hover {
+    color: grey;
+    margin-right: 25%;
+}

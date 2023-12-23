@@ -1,0 +1,37 @@
+.Cartitem {
+    text-align: center;
+    border-block: 2px solid white;
+    margin-block: 20px;
+}
+
+.nombreProd {
+    color: white;
+    font-size: 30px;
+    font-weight: 800;
+    margin-block: 15px;
+    padding: 10px;
+}
+
+.cantidadProd, .subtotalProd {
+    color: white;
+    font-size: 20px;
+    font-weight: 800;
+    margin: 20px 0 15px 0;
+}
+
+.botonEliminar {
+    color: black;
+    font-weight: 600;
+    font-size: 18px;
+    padding: 12px;
+    margin: 25px;
+    cursor: pointer;
+    border: none;
+    border-radius: 20px;
+    transition: .5s ease;
+}
+
+.botonEliminar:hover {
+    background-color: rgb(209, 0, 0);
+    border-radius: 15px 0;
+}

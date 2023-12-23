@@ -1,4 +1,4 @@
-const products = [
+/* const products = [
     {
         id: "1",
         name:"Nike React 270",
@@ -52,7 +52,8 @@ const products = [
         img: "https://acdn.mitiendanube.com/stores/219/431/products/1f2ae0ab-0927-4b8d-8fbd-8fb64858ff75-dd9b624eeb93c665d116975486450544-1024-1024.webp",
         stock: 10,
         description: "Medias de algodon importadas Kongo"
-    },    {
+    },    
+    {
         id: "7",
         name:"Cordones reflex blue",
         price: "USD 60",
@@ -105,4 +106,4 @@ const getProductsByCategory = (categoryId) => {
     })
 }
 
-export { getProducts, getProductById, getProductsByCategory}
+export { getProducts, getProductById, getProductsByCategory} */
