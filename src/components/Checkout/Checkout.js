@@ -62,11 +62,11 @@ const Checkout = () => {
     };
 
     if (loading) {
-        return <h1>Se está generando su orden</h1>;
+        return <h1 className="cargandoOrden">Se está generando su orden</h1>;
     }
 
     if (orderId) {
-        return <h2>ESu numero de orden es:{orderId}</h2>;
+        return <h2 className="numeroOrden">Su numero de orden es: {orderId}</h2>;
     }
 
     return (
